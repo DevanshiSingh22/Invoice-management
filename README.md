@@ -8,7 +8,7 @@ A modern, responsive invoice management frontend built with React and Vite.
 
 ### 🖥️ Dashboard Preview
 
-![Invoice Management Dashboard](dashboard.png)
+![Invoice Management Dashboard](dashboard.jpeg)
 
 The application provides a complete invoice workflow — from dashboard-level financial insights and invoice discovery to invoice creation, detailed invoice review, bulk actions, CSV export, and role-based controls.
 
