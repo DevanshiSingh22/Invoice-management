@@ -6,6 +6,10 @@ A modern, responsive invoice management frontend built with React and Vite.
 
 [View Live Application](https://invoice-management-bice.vercel.app/)
 
+### 🖥️ Dashboard Preview
+
+![Invoice Management Dashboard](dashboard.png)
+
 The application provides a complete invoice workflow — from dashboard-level financial insights and invoice discovery to invoice creation, detailed invoice review, bulk actions, CSV export, and role-based controls.
 
 ## ✨ Features
